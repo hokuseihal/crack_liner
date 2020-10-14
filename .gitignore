@@ -4,3 +4,5 @@ build
 *.out
 list
 .vscode
+.checked
+.python-version
