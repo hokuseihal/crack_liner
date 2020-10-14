@@ -3,3 +3,4 @@ build
 *.txt
 *.out
 list
+.vscode
